@@ -7,4 +7,4 @@ Those are short and long (FTR) technical reports I wrote for my 3rd year Enginee
 
 3D5 (Water Engineering) Report Marked 4.5/5
 
-3D1 (Geotechnics I) Reprot Marked 3.5/5
+3D1 (Geotechnics I) Report Marked 3.5/5

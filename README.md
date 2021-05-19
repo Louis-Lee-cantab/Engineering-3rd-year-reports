@@ -10,3 +10,7 @@ Those are conventional reports and Full Technical Report (FTR) I wrote for my 3r
 3D4 (Structural Analysis and Stability) Report Marked 4/5
 
 3D1 (Geotechnics I) Report Marked 3.5/5
+
+3D5 (Water Engineering) Full Technical Report (FTR) 7.5/10
+
+3D4 (Structral analysis and stability) Full Technical Report (FTR) 7/10
